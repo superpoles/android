@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="bhcBrown">#754315</color>
+    <color name="bhcYellow">#FCB813</color>
+    <color name="bhcGreen">#699C45</color>
+    <color name="bhcBlue">#148DCD</color>
+    <color name="bhcOrange">#F48235</color>
+    <color name="bhcGray">#5E5F61</color>
+    <color name="bhcRed">#CC202D</color>
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/bhcGray"/>
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/bhc_logo_vertical_centered_temp"/>
+    </item>
+
+</layer-list>
