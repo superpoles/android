@@ -6,7 +6,7 @@
 
     <item>
         <bitmap
-            android:gravity="center"
+            android:scaleType="fitXY"
             android:src="@drawable/bhc_logo_vertical_centered_temp"/>
     </item>
 
